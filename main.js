@@ -5,7 +5,7 @@ const btn = document.querySelector('button');
 const overlay = document.querySelector('.overlay');
 
 /* Declaring the array of image filenames */
-const pathImages = ['images/pic1.jpg','images/pic2.jpg','images/pic3.jpg','images/pic4.jpg','images/pic5.jpg'];
+const pathImages = ['images/bojack.jpg','images/espacio.jpg','images/cuerpo.jpg','images/dep.jpg','images/narcisistas-encantadores.jpg'];
 
 /* Declaring the alternative text for each image file */
 const alterTexs = ['huma aye','sand','flowers','egip','butterfly']
